@@ -1,4 +1,4 @@
-# ERP-System
+# ERP-System using React
 # Description:
 Enterprise Resource Planning (ERP) systems are comprehensive software solutions used by organizations to manage and integrate key business processes, such as accounting, inventory management, human resources, customer relationship management (CRM), and more. Developing the front-end of an ERP system using React allows for the creation of a modern, dynamic, and user-friendly interface to facilitate efficient management of various business operations.
 # Installation
@@ -7,6 +7,7 @@ Enterprise Resource Planning (ERP) systems are comprehensive software solutions 
 3. Install dependencies: `npm install`
 # How to Run
 Run the application: `npm start` to start the development server.
+
 Open your browser and go to `http://localhost:3000` to view the app.
 # Learn More
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
