@@ -5,21 +5,21 @@ Enterprise Resource Planning (ERP) systems are comprehensive software solutions 
 1. Clone the repository: `git clone https://github.com/MaheshG10/ERP-System.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Install dependencies: `npm install`
-# Run
-Run the application: `npm start` and
-go to `http://localhost:3000`
+# How to Run
+Run the application: `npm start` to start the development server.
+Open your browser and go to `http://localhost:3000` to view the app.
 # Learn More
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
 
 To learn React, check out the [React documentation](https://react.dev/).
-## Dashboard
+## Dashboard :
 ![Screenshot (93)](https://github.com/MaheshG10/ERP-System/assets/92197783/56276967-7cb1-4e6e-b8dc-1853a8e03cff)
 
-## Products Management
+## Products Management :
 ![Screenshot (94)](https://github.com/MaheshG10/ERP-System/assets/92197783/ba8f9203-380e-428f-99a7-e3ce0e685822)
 
-## Orders Management
+## Orders Management :
 ![Screenshot (95)](https://github.com/MaheshG10/ERP-System/assets/92197783/2523defe-4f62-48e8-8f2a-d89c222c48c7)
 
-## Orders Calendar
+## Orders Calendar :
 ![Screenshot (96)](https://github.com/MaheshG10/ERP-System/assets/92197783/fa4a6e77-8146-47ee-8e1f-fbc4e6ac76b0)
