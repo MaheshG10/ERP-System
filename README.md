@@ -8,3 +8,6 @@ Enterprise Resource Planning (ERP) systems are comprehensive software solutions 
 # Run
 Run the application: `npm start` and
 go to `http://localhost:3000`
+# Learn More
+You can learn more in the Create React App documentation.
+To learn React, check out the React documentation.
