@@ -10,7 +10,16 @@ Run the application: `npm start` and
 go to `http://localhost:3000`
 # Learn More
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
+
 To learn React, check out the [React documentation](https://react.dev/).
 ## Dashboard
 ![Screenshot (93)](https://github.com/MaheshG10/ERP-System/assets/92197783/56276967-7cb1-4e6e-b8dc-1853a8e03cff)
 
+## Products Management
+![Screenshot (94)](https://github.com/MaheshG10/ERP-System/assets/92197783/ba8f9203-380e-428f-99a7-e3ce0e685822)
+
+## Orders Management
+![Screenshot (95)](https://github.com/MaheshG10/ERP-System/assets/92197783/2523defe-4f62-48e8-8f2a-d89c222c48c7)
+
+## Orders Calendar
+![Screenshot (96)](https://github.com/MaheshG10/ERP-System/assets/92197783/fa4a6e77-8146-47ee-8e1f-fbc4e6ac76b0)
