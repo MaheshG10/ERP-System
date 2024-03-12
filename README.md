@@ -9,5 +9,8 @@ Enterprise Resource Planning (ERP) systems are comprehensive software solutions 
 Run the application: `npm start` and
 go to `http://localhost:3000`
 # Learn More
-You can learn more in the Create React App documentation.
-To learn React, check out the React documentation.
+You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
+To learn React, check out the [React documentation](https://react.dev/).
+## Dashboard
+![Screenshot (93)](https://github.com/MaheshG10/ERP-System/assets/92197783/56276967-7cb1-4e6e-b8dc-1853a8e03cff)
+
